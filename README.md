@@ -66,6 +66,13 @@ The system streamlines key steps like martingale progression, payout filtering, 
 
 ---
 
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=JSYjDGxK9rc">
+    <img src="Demo.gif" alt="Demo"/>
+  </a>
+  <p><strong>Click here to watch the demo</strong></p>
+</div>
+
 ## How It Works
 
 | Step | Description |
