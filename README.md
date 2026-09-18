@@ -25,7 +25,19 @@
   </a>
 </p>
 
+<h2 align="center"> Product Demo</h2>
 
+<p align="center">
+  <a href="https://youtu.be/wihofHZrBq0" target="_blank">
+    <img src="https://img.youtube.com/vi/wihofHZrBq0/maxresdefault.jpg" 
+         alt="Traadence Pocket Option Trading Bot Demo" 
+         width="90%">
+  </a>
+</p>
+
+<p align="center">
+  Click the image above to watch the Traadence Pocket Option Trading Bot demo.
+</p>
 
 
 <p align="center" style="font-weight:600; margin-top:8px; margin-bottom:8px;">
