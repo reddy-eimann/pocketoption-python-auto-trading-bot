@@ -6,8 +6,9 @@
 
 
 <p align="center">
-  <a href="https://bitbash.dev" target="_blank">
-    <img src="https://github.com/Z786ZA/Footer-test/blob/main/media/scraper.png" alt="Bitbash Banner" width="100%"></a>
+  <a href="https://www.traadence.com/" target="_blank">
+    <img src="./pocket-option-trading-bot-banner.png" alt="Traadence Pocket Option Trading Bot" width="100%">
+  </a>
 </p>
 <p align="center">
   <a href="https://t.me/Bitbash333" target="_blank">
